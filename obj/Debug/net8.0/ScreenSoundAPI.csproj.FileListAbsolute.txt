@@ -1,0 +1,15 @@
+C:\Users\jpthe\OneDrive\Documentos\DEV AULAS\c#\ApiTESTE\ScreenSoundAPI\bin\Debug\net8.0\ScreenSoundAPI.exe
+C:\Users\jpthe\OneDrive\Documentos\DEV AULAS\c#\ApiTESTE\ScreenSoundAPI\bin\Debug\net8.0\ScreenSoundAPI.deps.json
+C:\Users\jpthe\OneDrive\Documentos\DEV AULAS\c#\ApiTESTE\ScreenSoundAPI\bin\Debug\net8.0\ScreenSoundAPI.runtimeconfig.json
+C:\Users\jpthe\OneDrive\Documentos\DEV AULAS\c#\ApiTESTE\ScreenSoundAPI\bin\Debug\net8.0\ScreenSoundAPI.dll
+C:\Users\jpthe\OneDrive\Documentos\DEV AULAS\c#\ApiTESTE\ScreenSoundAPI\bin\Debug\net8.0\ScreenSoundAPI.pdb
+C:\Users\jpthe\OneDrive\Documentos\DEV AULAS\c#\ApiTESTE\ScreenSoundAPI\obj\Debug\net8.0\ScreenSoundAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpthe\OneDrive\Documentos\DEV AULAS\c#\ApiTESTE\ScreenSoundAPI\obj\Debug\net8.0\ScreenSoundAPI.AssemblyInfoInputs.cache
+C:\Users\jpthe\OneDrive\Documentos\DEV AULAS\c#\ApiTESTE\ScreenSoundAPI\obj\Debug\net8.0\ScreenSoundAPI.AssemblyInfo.cs
+C:\Users\jpthe\OneDrive\Documentos\DEV AULAS\c#\ApiTESTE\ScreenSoundAPI\obj\Debug\net8.0\ScreenSoundAPI.csproj.CoreCompileInputs.cache
+C:\Users\jpthe\OneDrive\Documentos\DEV AULAS\c#\ApiTESTE\ScreenSoundAPI\obj\Debug\net8.0\ScreenSoundAPI.sourcelink.json
+C:\Users\jpthe\OneDrive\Documentos\DEV AULAS\c#\ApiTESTE\ScreenSoundAPI\obj\Debug\net8.0\ScreenSoundAPI.dll
+C:\Users\jpthe\OneDrive\Documentos\DEV AULAS\c#\ApiTESTE\ScreenSoundAPI\obj\Debug\net8.0\refint\ScreenSoundAPI.dll
+C:\Users\jpthe\OneDrive\Documentos\DEV AULAS\c#\ApiTESTE\ScreenSoundAPI\obj\Debug\net8.0\ScreenSoundAPI.pdb
+C:\Users\jpthe\OneDrive\Documentos\DEV AULAS\c#\ApiTESTE\ScreenSoundAPI\obj\Debug\net8.0\ScreenSoundAPI.genruntimeconfig.cache
+C:\Users\jpthe\OneDrive\Documentos\DEV AULAS\c#\ApiTESTE\ScreenSoundAPI\obj\Debug\net8.0\ref\ScreenSoundAPI.dll
